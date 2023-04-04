@@ -4,6 +4,3 @@
     - name: New Hello Message
       debug:
         msg: "Hello New World!"
-# build test
-# build test2
-# build test3
